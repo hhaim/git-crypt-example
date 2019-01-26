@@ -1,2 +1,4 @@
-b.txt
-a\b.txt
+b.txt filter=git-crypt diff=git-crypt
+a\b.txt filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+
